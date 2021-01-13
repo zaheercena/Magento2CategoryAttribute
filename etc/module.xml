@@ -1,0 +1,14 @@
+<!-- 
+/*
+* Company Name: Cozmot Inc
+* Website: https://cozmot.com
+* Writer Name: Zaheer Ahmed
+* Contact: zaheercena@gmail.com
+* Number: +92-301-1000201
+* Copyright: MIT Licence(Open to edit)
+-->
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
+    <module name="Cozmot_CategoryAttribute" setup_version="1.0.0">
+    </module>
+</config>
